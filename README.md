@@ -38,7 +38,8 @@ Modules designed to fit inside existing box.
 |Platinum?  | 12?         | 4?          |Prosperity |         | http://wiki.dominionstrategy.com/index.php/Platinum |
 |Province   | 12          | 4           |Base       |         |         |
 |Province   | 6           | 2           |Base Cards | 3 for 5, 6 for 6        | Split these?        |
-|Dutchy     | 12          | 4           |Base       |         |         |
+|Duchy      | 12          | 4           |Base       |         |         |
+|Estate     | 6           | 2           |?          |         | What are these for? |
 |Estate     | 24          | 7           |Base       |         |         |
 |Silver     | 30          | 10          |Base       |         |         |
 
