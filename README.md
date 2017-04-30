@@ -25,10 +25,10 @@ Modules designed to fit inside existing box.
 
 |Deck       | Card Count  | Width (mm)  | Notes   |
 |-----------|-------------|-------------|---------|
-|Unknown 0  | 12?         | 4           |         |
-|Unknown 1  | 12?         | 4           |         |
-|Unknown 2  | 12?         | 4           |         |
-|Unknown 3  | 12?         | 4           |         |
+|Unknown 0  | 12?         | 4?          |         |
+|Unknown 1  | 12?         | 4?          |         |
+|Unknown 2  | 12?         | 4?          |         |
+|Unknown 3  | 12?         | 4?          |         |
 |Gold       | 30          | 10          |         |
 |Gold       | 10          | 3           | 5-6 Players       |
 |Gold       | 10          | 3           | 6 Players        |
