@@ -42,6 +42,8 @@ Modules designed to fit inside existing box.
 |Estate     | 24          | 7           |Base       |         |         |
 |Silver     | 30          | 10          |Base       |         |         |
 
+![Module 4](https://github.com/DonovanBenoit/Dominion/blob/master/images/Module_4.png "Module 4")
+
 ### Diffuser
 We can use a diffuser strip over the LEDs
 Diffuser http://www.environmentallights.com/15727-el-dif-31.html
