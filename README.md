@@ -30,10 +30,10 @@ Modules designed to fit inside existing box.
 |Unknown 2  | 12?         | 4?          |           |         |         |
 |Unknown 3  | 12?         | 4?          |           |         |         |
 |Curse      | 30          | 10          |Base       |         |         |
-|Curse      | 10          | 3           |           |         |         |
-|Curse      | 10          | 3           |           |         |         |
-|Gold       | 9           | 3           |           | 5-6     |         |
-|Gold       | 9           | 3           |           | 6       |         |
+|Curse      | 10          | 3           |Base Cards | 5-6     |         |
+|Curse      | 10          | 3           |Base Cards | 6       |         |
+|Gold       | 9           | 3           |Base Cards | 5-6     |         |
+|Gold       | 9           | 3           |Base Cards | 6       |         |
 |Gold       | 30          | 10          |Base       |         |         |
 |Platinum?  | 12?         | 4?          |Prosperity |         | http://wiki.dominionstrategy.com/index.php/Platinum |
 |Province   | 12          | 4           |Base       |         |         |
