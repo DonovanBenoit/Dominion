@@ -30,8 +30,14 @@ Modules designed to fit inside existing box.
 |Unknown 2  | 12?         | 4?          |         |
 |Unknown 3  | 12?         | 4?          |         |
 |Gold       | 30          | 10          |         |
-|Gold       | 10          | 3           | 5-6 Players       |
-|Gold       | 10          | 3           | 6 Players        |
+|Gold       | 9           | 3           | 5-6 Players       |
+|Gold       | 9           | 3           | 6 Players        |
+|Platinum?  | ?           | ?           | ?        |
+|Province   | 12          | 4           |         |
+|Province   | 6           | 2           |         |
+|Dutchy     | 12          | 4           |         |
+|Estate     | 24          | 7           |         |
+|Silver     | 30          | 10          |         |
 
 ### Diffuser
 We can use a diffuser strip over the LEDs
