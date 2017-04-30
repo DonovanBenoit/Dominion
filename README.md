@@ -23,24 +23,24 @@ Modules designed to fit inside existing box.
 
 #### Module 4
 
-|Deck       | Card Count  | Width (mm)  | Notes   |
-|-----------|-------------|-------------|---------|
-|Unknown 0  | 12?         | 4?          |         |
-|Unknown 1  | 12?         | 4?          |         |
-|Unknown 2  | 12?         | 4?          |         |
-|Unknown 3  | 12?         | 4?          |         |
-|Curse      | 30          | 10          |         |
-|Curse      | 10          | 3           |         |
-|Curse      | 10          | 3           |         |
-|Gold       | 9           | 3           | >4 Players       |
-|Gold       | 9           | 3           | >5 Players        |
-|Gold       | 30          | 10          |         |
-|Platinum?  | ?           | ?           | ?        |
-|Province   | 12          | 4           |         |
-|Province   | 6           | 2           |         |
-|Dutchy     | 12          | 4           |         |
-|Estate     | 24          | 7           |         |
-|Silver     | 30          | 10          |         |
+|Deck       | Card Count  | Width (mm)  | Game      | Players | Notes   |
+|-----------|-------------|-------------|-----------|---------|---------|
+|Unknown 0  | 12?         | 4?          |           |         |         |
+|Unknown 1  | 12?         | 4?          |           |         |         |
+|Unknown 2  | 12?         | 4?          |           |         |         |
+|Unknown 3  | 12?         | 4?          |           |         |         |
+|Curse      | 30          | 10          |Base       |         |         |
+|Curse      | 10          | 3           |           |         |         |
+|Curse      | 10          | 3           |           |         |         |
+|Gold       | 9           | 3           |           | 5-6     |         |
+|Gold       | 9           | 3           |           | 6       |         |
+|Gold       | 30          | 10          |Base       |         |         |
+|Platinum?  | 12?         | 4?          |Prosperity |         | http://wiki.dominionstrategy.com/index.php/Platinum |
+|Province   | 12          | 4           |Base       |         |         |
+|Province   | 6           | 2           |Base Cards | 3 for 5, 6 for 6        | Split these?        |
+|Dutchy     | 12          | 4           |Base       |         |         |
+|Estate     | 24          | 7           |Base       |         |         |
+|Silver     | 30          | 10          |Base       |         |         |
 
 ### Diffuser
 We can use a diffuser strip over the LEDs
