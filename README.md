@@ -13,6 +13,26 @@ Modules designed to fit inside existing box.
 
 ![Module](https://github.com/DonovanBenoit/Dominion/blob/master/images/Module.png "Module")
 
+#### Module 0
+
+#### Module 1
+
+#### Module 2
+
+#### Module 3
+
+#### Module 4
+
+|Deck       | Card Count  | Width (mm)  | Notes   |
+|-----------|-------------|-------------|---------|
+|Unknown 0  | 12?         | 4           |         |
+|Unknown 1  | 12?         | 4           |         |
+|Unknown 2  | 12?         | 4           |         |
+|Unknown 3  | 12?         | 4           |         |
+|Gold       | 30          | 10          |         |
+|Gold       | 10          | 3           | 5-6 Players       |
+|Gold       | 10          | 3           | 6 Players        |
+
 ### Diffuser
 We can use a diffuser strip over the LEDs
 Diffuser http://www.environmentallights.com/15727-el-dif-31.html
