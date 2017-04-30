@@ -29,9 +29,12 @@ Modules designed to fit inside existing box.
 |Unknown 1  | 12?         | 4?          |         |
 |Unknown 2  | 12?         | 4?          |         |
 |Unknown 3  | 12?         | 4?          |         |
+|Curse      | 30          | 10          |         |
+|Curse      | 10          | 3           |         |
+|Curse      | 10          | 3           |         |
+|Gold       | 9           | 3           | >4 Players       |
+|Gold       | 9           | 3           | >5 Players        |
 |Gold       | 30          | 10          |         |
-|Gold       | 9           | 3           | 5-6 Players       |
-|Gold       | 9           | 3           | 6 Players        |
 |Platinum?  | ?           | ?           | ?        |
 |Province   | 12          | 4           |         |
 |Province   | 6           | 2           |         |
